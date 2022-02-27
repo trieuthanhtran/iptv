@@ -232,10 +232,6 @@ https://l9v8fomqgzliv.vcdn.cloud/live/nhandan/playlist.m3u8
 #https://8387f03af3.vws.vegacdn.vn/live/nhandan/playlist.m3u8
 
 #--------------------Nước Ngoài--------------------#
-#EXTINF:103 tvg-id="animalhd" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622020339channel2_ANIMAL%20PLANET.png", Animal Planet - Khám Phá
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://pprex49o5aliv.vcdn.cloud/live/animal-planet/playlist.m3u8
-
 #EXTINF:96 tvg-id="axnhd" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622019680channel2_AXN.png", AXN - Giải Trí Hành Động
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://pprex49o5aliv.vcdn.cloud/live/axn/playlist.m3u8
