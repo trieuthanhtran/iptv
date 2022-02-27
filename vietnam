@@ -230,3 +230,56 @@ https://l9v8fomqgzliv.vcdn.cloud/live/qpvn/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://l9v8fomqgzliv.vcdn.cloud/live/nhandan/playlist.m3u8
 #https://8387f03af3.vws.vegacdn.vn/live/nhandan/playlist.m3u8
+
+#--------------------Nước Ngoài--------------------#
+#EXTINF:103 tvg-id="animalhd" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622020339channel2_ANIMAL%20PLANET.png", Animal Planet - Khám Phá
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://pprex49o5aliv.vcdn.cloud/live/animal-planet/playlist.m3u8
+
+#EXTINF:96 tvg-id="axnhd" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622019680channel2_AXN.png", AXN - Giải Trí Hành Động
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://pprex49o5aliv.vcdn.cloud/live/axn/playlist.m3u8
+
+#EXTINF:104 tvg-id="bbcearth" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622020553channel2_BBC%20EARTH.png", BBC Earth - Khám Phá
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://pprex49o5aliv.vcdn.cloud/live/bbc-earth/playlist.m3u8
+
+#EXTINF:100 tvg-id="cinemaworldhd" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622020681channel2_Cinemaworld.png", Cinema World - Phim Truyện
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://s8erzszluwliv.vcdn.cloud/live/cinema-world/playlist.m3u8
+
+#EXTINF:108 tvg-id="discoveryasiahd" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622020715channel2_ASIA.png", Discovery Asia - Khám Phá
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://s8erzszluwliv.vcdn.cloud/live/discovery-asia/playlist.m3u8
+
+#EXTINF:109 tvg-id="discoveryhd" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622020444channel2_DISCOVERY.png", Discovery Channel - Khám Phá
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://s8erzszluwliv.vcdn.cloud/live/discovery-channel/playlist.m3u8
+
+#EXTINF:112 tvg-id="tlchd" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622020464channel2_TRAVEL%20TLC.png", TLC - Khám Phá
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#https://pprex49o5aliv.vcdn.cloud/live/tlc-travel-living/playlist.m3u8
+
+#EXTINF:99 tvg-id="warnertvhd" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622083694channel2_WBTV.png", Warner TV - Phim Truyện
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://s8erzszluwliv.vcdn.cloud/live/warner-tv/playlist.m3u8
+
+#EXTINF:127 tvg-id="boxmovie1" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623738494c_Box%20Movie.png", Box Movie 1 - Phim Truyện
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://pprex49o5aliv.vcdn.cloud/live/box-movie/playlist.m3u8
+
+#EXTINF:128 tvg-id="hollywoodclassics" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623742686c_Hollywood-201.png", Hollywood Classics - Phim Truyện
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://pprex49o5aliv.vcdn.cloud/live/hollywood/playlist.m3u8
+
+#EXTINF:123 tvg-id="inthebox" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png", Box Channel - Phim Truyện
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://pprex49o5aliv.vcdn.cloud/live/box-channel/playlist.m3u8
+
+#EXTINF:124 tvg-id="boxhits" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1626834087channel3_BoxHit.png", Box Hits - Phim Truyện
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://pprex49o5aliv.vcdn.cloud/live/box-hits/playlist.m3u8
+
+#EXTINF:137 tvg-id="planetearthhd" group-title="Kênh Nước Ngoài" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623743369c_Planet%20Earth-205.png", Planet Earth - Khám Phá
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://pprex49o5aliv.vcdn.cloud/live/planet-earth/playlist.m3u8
