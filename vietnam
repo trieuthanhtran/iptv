@@ -118,3 +118,115 @@ https://s8erzszluwliv.vcdn.cloud/live/vtc14/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://s8erzszluwliv.vcdn.cloud/live/vtc16/playlist.m3u8
 #https://8387d1dfc2.vws.vegacdn.vn/live/vtc16/playlist.m3u8
+
+#--------------------HTV--------------------#
+#EXTINF:58 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1636428826HTV1.png", HTV1 - Thông Tin Công Cộng
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://mziyw7t0yhliv.vcdn.cloud/live/htv1/playlist.m3u8
+#https://8387e1fb5a.vws.vegacdn.vn/live/htv1/playlist.m3u8
+
+#EXTINF:59 tvg-id="htv2hd" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1636428991HTV2.png", HTV2 - Giải Trí Tổng Hợp
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://mziyw7t0yhliv.vcdn.cloud/live/htv2/playlist.m3u8
+#https://8387e1fb5a.vws.vegacdn.vn/live/htv2/playlist.m3u8
+
+#EXTINF:60 tvg-id="htv3" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1636429108HTV3.png", HTV3 - Giáo Dục & Giải Trí 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://mziyw7t0yhliv.vcdn.cloud/live/htv3/playlist.m3u8
+#https://8387e1fb5a.vws.vegacdn.vn/live/htv3/playlist.m3u8
+
+#EXTINF:61 tvg-id="htvkey" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1636429239HTV4.png", HTV4 - Kiến Thức & Giáo Dục
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://l9v8fomqgzliv.vcdn.cloud/live/htv4/playlist.m3u8
+#https://8387f03af3.vws.vegacdn.vn/live/htv4/playlist.m3u8
+
+#EXTINF:62 tvg-id="htv7hd" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1636429364HTV7.png", HTV7 - Khoa Giáo & Giải Trí
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://l9v8fomqgzliv.vcdn.cloud/live/htv7/playlist.m3u8
+#https://8387f03af3.vws.vegacdn.vn/live/htv7/playlist.m3u8
+
+#EXTINF:63 tvg-id="htv9hd" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1636429445HTV9.png", HTV9 - Thời Sự & Chính Luận
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://l9v8fomqgzliv.vcdn.cloud/live/htv9/playlist.m3u8
+#https://8387f03af3.vws.vegacdn.vn/live/htv9/playlist.m3u8
+
+#EXTINF:64 tvg-id="htvthethaohd" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1636429567HTV%20THE%20THAO.png", HTV - Thể Thao
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://l9v8fomqgzliv.vcdn.cloud/live/htv-thethao/playlist.m3u8
+#https://8387f03af3.vws.vegacdn.vn/live/htv-thethao/playlist.m3u8
+
+#EXTINF:68 tvg-id="htvcgiadinhhd" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/thumbnail/17165.png", HTVC - Gia Đình
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://s8erzszluwliv.vcdn.cloud/live/htvc-giadinh/playlist.m3u8
+#https://8387d1dfc2.vws.vegacdn.vn/live/htvc-giadinh/playlist.m3u8
+
+#EXTINF:69 tvg-id="htvcphunuhd" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1636429773htvcPHU%20NU.png", HTVC - Phụ Nữ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://s8erzszluwliv.vcdn.cloud/live/htvc-phunu/playlist.m3u8
+#https://8387d1dfc2.vws.vegacdn.vn/live/htvc-phunu/playlist.m3u8
+
+#EXTINF:71 tvg-id="htvccanhachd" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1636429892htvc-CA%20NHAC.png", HTVC - Ca Nhạc
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://s8erzszluwliv.vcdn.cloud/live/htvc-canhac/playlist.m3u8
+#https://8387d1dfc2.vws.vegacdn.vn/live/htvc-canhac/playlist.m3u8
+
+#EXTINF:70 tvg-id="htvcdulichhd" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/thumbnail/17166.png", HTVC - Du Lịch & Cuộc Sống
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://s8erzszluwliv.vcdn.cloud/live/htvc-dulich/playlist.m3u8
+#https://8387d1dfc2.vws.vegacdn.vn/live/htvc-dulich/playlist.m3u8
+
+#EXTINF:65 tvg-id="htvcphimhd" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1636430130htvc_PHIM.png", HTVC - Phim
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://s8erzszluwliv.vcdn.cloud/live/htvc-phim/playlist.m3u8
+#https://8387d1dfc2.vws.vegacdn.vn/live/htvc-phim/playlist.m3u8
+
+#EXTINF:67 tvg-id="htvcthuanviethd" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/thumbnail/17276.png", HTVC - Thuần Việt HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://l9v8fomqgzliv.vcdn.cloud/live/htvc-thuanviet/playlist.m3u8
+#https://8387f03af3.vws.vegacdn.vn/live/htvc-thuanviet/playlist.m3u8
+
+#EXTINF:66 tvg-id="htvcthuanviet" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/thumbnail/16060.png", HTVC - Thuần Việt
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://t9apqbqwualiv.vcdn.cloud/live/thuanvietsd/playlist.m3u8
+#https://83879f38b7.vws.vegacdn.vn/live/thuanvietsd/playlist.m3u8
+
+#EXTINF:72 tvg-id="htvcplushd" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/thumbnail/17167.png", HTVC+ - Plus
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://mziyw7t0yhliv.vcdn.cloud/live/htvc-plus/playlist.m3u8
+#https://8387e1fb5a.vws.vegacdn.vn/live/htvc-plus/playlist.m3u8
+
+#EXTINF:1001 tvg-id="htvccoop" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/thumbnail/17168.png", HTVC - Coop
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://mziyw7t0yhliv.vcdn.cloud/live/htvc-coop/playlist.m3u8
+#https://8387e1fb5a.vws.vegacdn.vn/live/htvc-coop/playlist.m3u8
+
+#EXTINF:1002 tvg-id="htvcshopping" group-title="Kênh HTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/thumbnail/17169.png", HTVC - Shopping
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://mziyw7t0yhliv.vcdn.cloud/live/htvc-shopping/playlist.m3u8
+#https://8387e1fb5a.vws.vegacdn.vn/live/htvc-shopping/playlist.m3u8
+
+#--------------------Thiết Yếu--------------------#
+#EXTINF:40 tvg-id="ttxvnhd" group-title="Kênh Thiết Yếu" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622083833channel2_NEWS.png", VNEWS - Thông Tấn Xã Việt Nam
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://l9v8fomqgzliv.vcdn.cloud/live/ttxvn/playlist.m3u8
+#https://8387f03af3.vws.vegacdn.vn/live/ttxvn/playlist.m3u8
+
+#EXTINF:41 tvg-id="quochoi" group-title="Kênh Thiết Yếu" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622083284channel2_QUOC%20HOI.png", Quốc Hội Việt Nam
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://l9v8fomqgzliv.vcdn.cloud/live/quochoi/playlist.m3u8
+#https://8387f03af3.vws.vegacdn.vn/live/quochoi/playlist.m3u8
+
+#EXTINF:38 tvg-id="antvhd" group-title="Kênh Thiết Yếu" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622083263channel2_ANTV.png", ANTV - Công An Nhân Dân
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://l9v8fomqgzliv.vcdn.cloud/live/antv/playlist.m3u8
+#https://8387f03af3.vws.vegacdn.vn/live/antv/playlist.m3u8
+
+#EXTINF:37 tvg-id="qpvnhd" group-title="Kênh Thiết Yếu" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622080167channel2_QPTV.png", QPVN - Quốc Phòng Việt Nam
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://l9v8fomqgzliv.vcdn.cloud/live/qpvn/playlist.m3u8
+#https://8387f03af3.vws.vegacdn.vn/live/qpvn/playlist.m3u8
+
+#EXTINF:42 tvg-id="nhandan" group-title="Kênh Thiết Yếu" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622082938channel2_NHAN%20DAN.png", Nhân Dân
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://l9v8fomqgzliv.vcdn.cloud/live/nhandan/playlist.m3u8
+#https://8387f03af3.vws.vegacdn.vn/live/nhandan/playlist.m3u8
