@@ -430,3 +430,8 @@ https://pprex49o5aliv.vcdn.cloud/live/planet-earth/playlist.m3u8
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 	https://yenbaitv.org.vn/hls/livestream.m3u8
 	#https://l9v8fomqgzliv.vcdn.cloud/live/yenbai/playlist.m3u8
+
+#--------------------Thử nghiệm--------------------#
+#EXTINF:-1 tvg-id="thunghiem" group-title="Kênh Thử Nghiệm" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/thumbnail/18915.png?v=1646359200", NetHub - Thử Nghiệm
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://log5uwsgbvliv.vcdn.cloud/live/thunghiem/playlist.m3u8
