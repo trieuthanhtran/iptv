@@ -60,3 +60,7 @@ https://d1wlfhmi2k2frd.cloudfront.net/v1/master/385c85a93929f94966d0fb186fc33b43
 #https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8
 https://wildearth-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ca7f2401f4d8610019f3f6_wildearth-live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="sctv16hd" group-title="t1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/16_47eb3436.jpg", SCTV16 - Phim Nước Ngoài
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
