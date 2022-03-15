@@ -51,12 +51,12 @@ https://pprex49o5aliv.vcdn.cloud/live/planet-earth/playlist.m3u8
 #--------------------Thử nghiệm--------------------#
 #EXTINF:-1 tvg-id="lovenature" group-title="t1" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png", Love Nature
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://lovenatureus-eng-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-bamus-lovenature-eng-plex/CDN/playlist.m3u8
-#https://d1wlfhmi2k2frd.cloudfront.net/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6092e184397ff5396c279cc3_lovenaturechannel-live/playlist.m3u8
+#https://lovenatureus-eng-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-bamus-lovenature-eng-plex/CDN/playlist.m3u8
 #https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8
+https://d1wlfhmi2k2frd.cloudfront.net/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6092e184397ff5396c279cc3_lovenaturechannel-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="wildeart" group-title="t1" tvg-logo="https://149385349.v2.pressablecdn.com/wp-content/uploads/2021/11/WildEarth-logo-white_esm.png", Wild Eart
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8
-#https://wildearth-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ca7f2401f4d8610019f3f6_wildearth-live/playlist.m3u8
+#https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8
+https://wildearth-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ca7f2401f4d8610019f3f6_wildearth-live/playlist.m3u8
 
