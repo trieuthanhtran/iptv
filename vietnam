@@ -10,3 +10,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 #EXTINF:-1 tvg-id="lovenature" group-title="t1" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png", Love Nature - Khám Phá
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://d1wlfhmi2k2frd.cloudfront.net/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6092e184397ff5396c279cc3_lovenaturechannel-live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hiyah" group-title="t1" tvg-logo="https://vhx.imgix.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png", Hi-Yah - Phim
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://hiyah-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6170408a74cbf57d532ff8e3_hiyah-live/playlist.m3u8
