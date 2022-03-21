@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sctv16hd" group-title="t1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/16_47eb3436.jpg", SCTV16 - Phim
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="t1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/16_47eb3436.jpg", SCTV16 - Phim
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="t1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg", BOX Movie 1 - Phim
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
