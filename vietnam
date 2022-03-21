@@ -12,6 +12,18 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8|Referer=http:
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
+#EXTINF:-1 tvg-id="boxmovie1" group-title="t1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg", BOX Movie 2 - Phim
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e1.endpoint.cdn.sctvonline.vn/playlist/boxmovie1/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="t1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg", BOX Movie 3 - Phim
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e1.endpoint.cdn.sctvonline.vn/channel/boxmovie1/s2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="t1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg", BOX Movie 4 - Phim
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e1.endpoint.cdn.sctvonline.vn/channel/boxmovie1/s1/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="lovenature" group-title="t1" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png", Love Nature - Khám Phá
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://d1wlfhmi2k2frd.cloudfront.net/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6092e184397ff5396c279cc3_lovenaturechannel-live/playlist.m3u8
