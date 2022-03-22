@@ -24,6 +24,30 @@ https://d1wlfhmi2k2frd.cloudfront.net/v1/master/385c85a93929f94966d0fb186fc33b43
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://hiyah-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6170408a74cbf57d532ff8e3_hiyah-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtv9hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/cx1fx0b.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 HD | NAM BỘ QUỐC GIA
+#EXTINF:-1 tvg-id="hiyah" group-title="t1" tvg-logo="https://vhx.imgix.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png", HBO Test
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://116.108.11.58:8080/sv2plusr/live/hda1/hbo_hls.smil/playlist.m3u8?token=HmSF7PTP3oee9JJfskAimA&e=1647926454
+
+#EXTINF:-1 tvg-id="hiyah" group-title="t1" tvg-logo="https://vhx.imgix.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png", AXN Test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://116.108.11.58:8080/sv2plusr/vips-live/hda3/axnhd_vhls.smil/playlist.m3u8?token=FyjLAVA7dsVSAvSxUuyEiA&e=1647930627
+
+#EXTINF:-1 tvg-id="hiyah" group-title="t1" tvg-logo="https://vhx.imgix.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png", Discovery Test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://116.108.11.58:8080/sv2plusr/vips-live/hda2/discovery_vhls.smil/playlist.m3u8?token=B9KN_DPebW-q9I32zQXMpQ&e=1647930299
+
+#EXTINF:-1 tvg-id="hiyah" group-title="t1" tvg-logo="https://vhx.imgix.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png", Animal Planet Test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://116.108.3.234:8080/sv2plusr/vips-live/hda2/animalplanet_vhls.smil/playlist.m3u8?token=lsKlYfTzdkexeZglRfb9Tw&e=1647930038
+
+#EXTINF:-1 tvg-id="hiyah" group-title="t1" tvg-logo="https://vhx.imgix.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png", Cinemawork Test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://115.77.245.118:8080/sv2plusr/vips-live/hda2/cinemawork_vhls.smil/playlist.m3u8?token=kgdu_x8aEm6LSNhlLRbIqw&e=1647929828
+
+#EXTINF:-1 tvg-id="hiyah" group-title="t1" tvg-logo="https://vhx.imgix.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png", Warner Test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://116.108.11.58:8080/sv2plusr/vips-live/hda3/warnertv_vhls.smil/playlist.m3u8?token=hwZoMZov_u7mulkC5Hh8gg&e=1647929563
+
+#EXTINF:-1 tvg-id="hiyah" group-title="t1" tvg-logo="https://vhx.imgix.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png", Box Movies Test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://vtsstr6.tv24.vn/livesctv/smil:BOX_MOVIE_HD.smil/chunklist_w873683930_b2692000_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjQ3OTE1NjAyJndvd3phdG9rZW5lbmR0aW1lPTE2NDc5MjMxMDImd293emF0b2tlbmN1c3RvbVBhcmFtZXRlcj1teXJhbmRvbWN1c3RvbXBhcmFtZXRlciZ3b3d6YXRva2VuaGFzaD02a1BMU0hLTDJLQk1SZjQwRUMtTTAtN2dwU2wybFU2SFdQR2Vnc1JBanRvPQ==.m3u8
