@@ -53,28 +53,28 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="nghd" group-title="t1" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png", National Geographic - Khám Phá
+#EXTINF:-1 tvg-id="ngchd" group-title="t1" tvg-logo="http://onetv.click/logo/ngchd.jpg", National Geographic - Khám Phá
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="ngwhd" group-title="t1" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png", National Geographic Wild - Khám Phá
+#EXTINF:-1 tvg-id="ngwhd" group-title="t1" tvg-logo="http://onetv.click/logo/ngwhd.jpg", National Geographic Wild - Khám Phá
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="t1" tvg-logo="https://us1-prod-images.disco-api.com/2020/7/13/668669e9-a081-4c16-ab9c-d445167acedf.png", Discovery Channel - Khám Phá
+#EXTINF:-1 tvg-id="discoveryhd" group-title="t1" tvg-logo="http://onetv.click/logo/discoveryhd.jpg", Discovery Channel - Khám Phá
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="t1" tvg-logo="https://us1-prod-images.disco-api.com/2020/7/13/668669e9-a081-4c16-ab9c-d445167acedf.png", Discovery Asia - Khám Phá
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="t1" tvg-logo="http://onetv.click/logo/discoveryasiahd.jpg", Discovery Asia - Khám Phá
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="t1" tvg-logo="https://us1-prod-images.disco-api.com/2020/7/13/668669e9-a081-4c16-ab9c-d445167acedf.png", BBC Earth - Khám Phá
+#EXTINF:-1 tvg-id="bbcearth" group-title="t1" tvg-logo="http://onetv.click/logo/bbcearth.jpg", BBC Earth - Khám Phá
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="t1" tvg-logo="https://us1-prod-images.disco-api.com/2020/7/13/668669e9-a081-4c16-ab9c-d445167acedf.png", Phú Yên
+#EXTINF:-1 tvg-id="discoveryhd" group-title="t1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Phuyen.png", Phú Yên
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
