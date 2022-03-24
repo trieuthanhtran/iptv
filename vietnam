@@ -7,10 +7,6 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="animalhd" group-title="t1" tvg-logo="http://onetv.click/logo/animalhd.jpg", Animal Planet - Khám Phá
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda2/animalplanet_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="hbohd" group-title="t1" tvg-logo="http://onetv.click/logo/hbohd.png", HBO - Phim
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda1/hbo_hls.smil/playlist.m3u8
@@ -19,13 +15,13 @@ https://vips-livecdn.fptplay.net/hda1/hbo_hls.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ngchd" group-title="t1" tvg-logo="http://onetv.click/logo/ngchd.jpg", National Geographic - Khám Phá
+#EXTINF:-1 tvg-id="bbcearth" group-title="t1" tvg-logo="http://onetv.click/logo/bbcearth.jpg", BBC Earth - Khám Phá
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda2/natgeohd_hls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda2/bbcearth_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ngwhd" group-title="t1" tvg-logo="http://onetv.click/logo/ngwhd.jpg", National Geographic Wild - Khám Phá
+#EXTINF:-1 tvg-id="animalhd" group-title="t1" tvg-logo="http://onetv.click/logo/animalhd.jpg", Animal Planet - Khám Phá
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda2/animalplanet_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="t1" tvg-logo="http://onetv.click/logo/discoveryhd.jpg", Discovery Channel - Khám Phá
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -35,9 +31,13 @@ https://vips-livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bbcearth" group-title="t1" tvg-logo="http://onetv.click/logo/bbcearth.jpg", BBC Earth - Khám Phá
+#EXTINF:-1 tvg-id="ngchd" group-title="t1" tvg-logo="http://onetv.click/logo/ngchd.jpg", National Geographic - Khám Phá
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda2/bbcearth_hls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda2/natgeohd_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ngwhd" group-title="t1" tvg-logo="http://onetv.click/logo/ngwhd.jpg", National Geographic Wild - Khám Phá
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="t1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Phuyen.png", Phú Yên
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
