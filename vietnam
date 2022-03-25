@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sctv16hd" group-title="t1" tvg-logo="http://onetv.click/logo/sctv16hd.png", SCTV16 - Phim
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="t1" tvg-logo="http://onetv.click/logo/boxmovie1.jpg", BOX Movie 1 - Phim
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
