@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 tvg-id="sctv16hd" group-title="t1" tvg-logo="http://onetv.click/logo/sctv16hd.png", SCTV16 - Phim
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s2/index.m3u8|Referer=http://sctvonline.vn/
@@ -42,3 +42,6 @@ https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b2500000.m3u
 #EXTINF:-1 tvg-id="discoveryhd" group-title="t1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Phuyen.png", Phú Yên
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+
+#https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b2500000.m3u8
+#warner-tv cinemaworld 
