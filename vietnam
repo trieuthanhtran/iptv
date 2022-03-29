@@ -42,3 +42,11 @@ https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b2500000.m3u
 #EXTINF:-1 tvg-id="discoveryhd" group-title="t1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Phuyen.png", Phú Yên
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="t1" tvg-logo="http://onetv.click/logo/vinhlong1hd.jpg", Vĩnh Long 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="t1" tvg-logo="http://onetv.click/logo/vinhlong2hd.jpg", Vĩnh Long 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
