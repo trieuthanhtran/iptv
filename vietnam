@@ -19,6 +19,14 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8|R
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda2/bbcearth_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
+#EXTINF:-1 tvg-id="ngwhd" group-title="Khám Phá" tvg-logo="http://onetv.click/logo/ngwhd.jpg", National Geographic Wild - Khám Phá
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+
+#EXTINF:-1 tvg-id="ngchd" group-title="Khám Phá" tvg-logo="http://onetv.click/logo/ngchd.jpg", National Geographic - Khám Phá
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://vips-livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+
 #EXTINF:-1 tvg-id="animalhd" group-title="Khám Phá" tvg-logo="http://onetv.click/logo/animalhd.jpg", Animal Planet - Khám Phá
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
@@ -31,15 +39,7 @@ https://vips-livecdn.fptplay.net/hda2/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
-#EXTINF:-1 tvg-id="ngchd" group-title="Khám Phá" tvg-logo="http://onetv.click/logo/ngchd.jpg", National Geographic - Khám Phá
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
-
-#EXTINF:-1 tvg-id="ngwhd" group-title="Khám Phá" tvg-logo="http://onetv.click/logo/ngwhd.jpg", National Geographic Wild - Khám Phá
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
-
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Phuyen.png", Phú Yên
+#EXTINF:-1 tvg-id="phuyenhd" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Phuyen.png", Phú Yên
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
 
