@@ -3,6 +3,10 @@
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s2/index.m3u8|Referer=http://sctvonline.vn/
 
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", SCTV16 - Phim
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Phim" tvg-logo="http://onetv.click/logo/boxmovie1.jpg", BOX Movie 1 - Phim
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -50,7 +54,3 @@ https://vips-livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="http://onetv.click/logo/vinhlong2hd.jpg", Vĩnh Long 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="thevietnamwar" group-title="The Vietnam War" tvg-logo="https://image.pbs.org/contentchannels/wrn2KuL-show-poster2x3-xxkfRaY.jpg", Episode 1  - Déjà Vu (1858-1961)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://ga.video.cdn.pbs.org/videos/vietnam-war/3501d760-a1ae-47e4-866e-6d46d4b5ae2a/2000007482/hd-16x9-mezzanine-1080p/x2bnys7c_vwar0101-16x9-1080p_105.m3u8
