@@ -1,56 +1,65 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", SCTV16 - Phim
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", SCTV6 - Phim Truyện
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/s2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", SCTV9 - Phim Châu Á
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", SCTV14 - Phim Việt
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", SCTV16 - Phim Nước Ngoài
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", SCTV16 - Phim
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", SCTV - Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Phim" tvg-logo="http://onetv.click/logo/boxmovie1.jpg", BOX Movie 1 - Phim
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", VCTV2 - ON Phim Việt
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", VCTV7 - ON Cine
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab7/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", VCTV19 - Vie DRAMAS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", Phim - BOX Movie 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Phim" tvg-logo="http://onetv.click/logo/hbohd.png", HBO - Phim
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", Phim - BOX Movie 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Phim" tvg-logo="http://onetv.click/logo/cinemaxhd.png", Cinemax - Phim
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", Khám Phá - Planet Earth
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="bbcearth" group-title="Khám Phá" tvg-logo="http://onetv.click/logo/bbcearth.jpg", BBC Earth - Khám Phá
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", Khám Phá - Discovery Channel
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda2/bbcearth_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="ngwhd" group-title="Khám Phá" tvg-logo="http://onetv.click/logo/ngwhd.jpg", National Geographic Wild - Khám Phá
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", Khám Phá - Discovery Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="ngchd" group-title="Khám Phá" tvg-logo="http://onetv.click/logo/ngchd.jpg", National Geographic - Khám Phá
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", Khám Phá - Animal Planet
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="animalhd" group-title="Khám Phá" tvg-logo="http://onetv.click/logo/animalhd.jpg", Animal Planet - Khám Phá
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", THVL1 - Vĩnh Long 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Khám Phá" tvg-logo="http://onetv.click/logo/discoveryhd.jpg", Discovery Channel - Khám Phá
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Phim" tvg-logo="http://onetv.click/logo/sctv16hd.png", THVL2 - Vĩnh Long 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda2/discovery_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
-
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Khám Phá" tvg-logo="http://onetv.click/logo/discoveryasiahd.jpg", Discovery Asia - Khám Phá
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
-
-#EXTINF:-1 tvg-id="phuyenhd" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Phuyen.png", Phú Yên
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8|Referer=https://fptplay.vn/
-
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="http://onetv.click/logo/vinhlong1hd.jpg", Vĩnh Long 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="http://onetv.click/logo/vinhlong2hd.jpg", Vĩnh Long 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/sd2/index.m3u8|Referer=http://sctvonline.vn/
