@@ -8,9 +8,41 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/sd2/index.m3u8|Referer=https://sc
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/sd2/index.m3u8|Referer=https://sctvonline.vn/detail/vtv3-hd-d605e3bf
 
+#EXTINF:-1 tvg-id="vtv" group-title="VTV" tvg-logo="http://onetv.click/logo/vtv.png", VTV6
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/sd2/index.m3u8|Referer=https://sctvonline.vn/detail/vtv6-69452026
+
+#EXTINF:-1 tvg-id="vtv" group-title="VTV" tvg-logo="http://onetv.click/logo/vtv.png", VTV7
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/sd2/index.m3u8|Referer=https://sctvonline.vn/detail/vtv7-dabb4fb7
+
+#EXTINF:-1 tvg-id="vtv" group-title="VTV" tvg-logo="http://onetv.click/logo/vtv.png", VTV9
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/sd2/index.m3u8|Referer=https://sctvonline.vn/detail/vtv9-87299929
+
+#EXTINF:-1 tvg-id="vtc" group-title="VTC" tvg-logo="http://onetv.click/logo/vtc.png", VTC1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/sd2/index.m3u8|Referer=https://sctvonline.vn/detail/vtc1-1ea5358e
+
+#EXTINF:-1 tvg-id="vtc" group-title="VTC" tvg-logo="http://onetv.click/logo/vtc.png", VTC5
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtc5/sd2/index.m3u8|Referer=https://sctvonline.vn/detail/vtc5-d2e00531
+
+#EXTINF:-1 tvg-id="vtc" group-title="VTC" tvg-logo="http://onetv.click/logo/vtc.png", VTC7
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e2.endpoint.cdn.sctvonline.vn/hls/todaytv/index.m3u8|Referer=https://sctvonline.vn/detail/todaytv-cb9f959d
+
+#EXTINF:-1 tvg-id="vtc" group-title="VTC" tvg-logo="http://onetv.click/logo/vtc.png", VTC9
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtc9/sd2/index.m3u8|Referer=https://sctvonline.vn/detail/vtc9-c75d955d
+
+#EXTINF:-1 tvg-id="vtc" group-title="VTC" tvg-logo="http://onetv.click/logo/vtc.png", VTC10
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtc10/index.m3u8|Referer=https://sctvonline.vn/detail/vtc10-62602a81
+
 #EXTINF:-1 tvg-id="sctv" group-title="SCTV" tvg-logo="http://onetv.click/logo/sctv.png", SCTV1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s2/index.m3u8|Referer=https://sctvonline.vn/detail/sctv1-hd-7f2aafec
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="sctv" group-title="SCTV" tvg-logo="http://onetv.click/logo/sctv.png", SCTV6
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -18,7 +50,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/s2/index.m3u8|Referer=https:
 
 #EXTINF:-1 tvg-id="sctv" group-title="SCTV" tvg-logo="http://onetv.click/logo/sctv.png", SCTV9
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s2/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s2/index.m3u8|Referer=https://sctvonline.vn/detail/sctv9-cdd19ab2
 
 #EXTINF:-1 tvg-id="sctv" group-title="SCTV" tvg-logo="http://onetv.click/logo/sctv.png", SCTV14
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
