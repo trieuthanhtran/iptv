@@ -30,7 +30,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s2/index.m3u8|Referer=http:
 
 #EXTINF:-1 tvg-id="sctv" group-title="SCTV" tvg-logo="http://onetv.click/logo/sctv.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/sd2/index.m3u8|Referer=https://sctvonline.vn/detail/sctv-phim-tong-hop-e6d2df88
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/sd1/index.m3u8|Referer=https://sctvonline.vn/detail/sctv-phim-tong-hop-e6d2df88
 
 #EXTINF:-1 tvg-id="vtvcab" group-title="VTVCAB" tvg-logo="http://onetv.click/logo/vtvcab.png", VTVCAB2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
