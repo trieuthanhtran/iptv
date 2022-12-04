@@ -10,7 +10,7 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv2/index.m3u8|Referer=https://
 
 #EXTINF:-1 tvg-id="sctv" group-title="SCTV" tvg-logo="http://onetv.click/logo/sctv.png", SCTV3 - Thiếu Nhi
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv3/index.m3u8|Referer=https://sctvonline.vn
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv3/index.m3u8|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="sctv" group-title="SCTV" tvg-logo="http://onetv.click/logo/sctv.png", SCTV4 - Văn Hóa Xã Hội
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -18,7 +18,7 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv4/index.m3u8|Referer=https://
 
 #EXTINF:-1 tvg-id="sctv" group-title="SCTV" tvg-logo="http://onetv.click/logo/sctv.png", SCTV5 - Mua Sắm
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv5/index.m3u8|Referer=https://sctvonline.vn
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv5/index.m3u8|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="sctv" group-title="SCTV" tvg-logo="http://onetv.click/logo/sctv.png", SCTV6 - Phim
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -38,7 +38,7 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv9/index.m3u8|Referer=https://
 
 #EXTINF:-1 tvg-id="sctv" group-title="SCTV" tvg-logo="http://onetv.click/logo/sctv.png", SCTV10 - Mua Sắm
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8|Referer=https://sctvonline.vn
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="sctv" group-title="SCTV" tvg-logo="http://onetv.click/logo/sctv.png", SCTV11 - Giải Trí
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -92,17 +92,21 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8|Referer=https:/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer=https://sctvonline.vn
 
+#EXTINF:-1 tvg-id="vtvcab" group-title="VTVCAB" tvg-logo="http://onetv.click/logo/vtvcab.png", Test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab4/sd2/index.m3u8|Referer=https://sctvonline.vn
 #EXTINF:-1 tvg-id="vtvcab" group-title="VTVCAB" tvg-logo="http://onetv.click/logo/vtvcab.png", Test 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab" group-title="VTVCAB" tvg-logo="http://onetv.click/logo/vtvcab.png", Test 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab13/index.m3u8|Referer=https://sctvonline.vn
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8|Referer=https://sctvonline.vn
+
 #EXTINF:-1 tvg-id="vtvcab" group-title="VTVCAB" tvg-logo="http://onetv.click/logo/vtvcab.png", Test 3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab14/index.m3u8|Referer=https://sctvonline.vn
+https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab4/sd2/index.m3u8|Referer=https://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab" group-title="VTVCAB" tvg-logo="http://onetv.click/logo/vtvcab.png", Test 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab16/sd2/index.m3u8|Referer=https://sctvonline.vn
 
-#EXTINF:-1 tvg-id="vtvcab" group-title="VTVCAB" tvg-logo="http://onetv.click/logo/vtvcab.png", VTVCab1- Giải Trí
+#EXTINF:-1 tvg-id="vtvcab" group-title="VTVCAB" tvg-logo="http://onetv.click/logo/vtvcab.png", VTVCab1 - Giải Trí
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab1/index.m3u8|Referer=http://sctvonline.vn
 
@@ -110,7 +114,7 @@ https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab1/index.m3u8|Referer=http://
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab2/index.m3u8|Referer=http://sctvonline.vn
 
-#EXTINF:-1 tvg-id="vtvcab" group-title="VTVCAB" tvg-logo="http://onetv.click/logo/vtvcab.png", VTVCab3 - 	Thể Thao
+#EXTINF:-1 tvg-id="vtvcab" group-title="VTVCAB" tvg-logo="http://onetv.click/logo/vtvcab.png", VTVCab3 - Thể Thao
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab3/index.m3u8|Referer=http://sctvonline.vn
 
