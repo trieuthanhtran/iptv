@@ -160,18 +160,6 @@ https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab19/index.m3u8|Referer=http:/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab20/index.m3u8|Referer=http://sctvonline.vn
 
-#EXTINF:-1 tvg-id="vtv" group-title="VTV" tvg-logo="http://onetv.click/logo/vtv.png", TEST
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtv" group-title="VTV" tvg-logo="http://onetv.click/logo/vtv.png", TEST 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/channel/vtv1/index.m3u8|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="vtv" group-title="VTV" tvg-logo="http://onetv.click/logo/vtv.png", TEST 3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/playlist/vtv1/index.m3u8|Referer=https://sctvonline.vn
-
 #EXTINF:-1 tvg-id="vtv" group-title="VTV" tvg-logo="http://onetv.click/logo/vtv.png", VTV1 - Thời Sự Chính Luận
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/sd2/index.m3u8|Referer=https://sctvonline.vn
@@ -192,14 +180,6 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/sd2/index.m3u8|Referer=https://sc
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/sd2/index.m3u8|Referer=https://sctvonline.vn
 
-#EXTINF:-1 tvg-id="vtv" group-title="VTV" tvg-logo="http://onetv.click/logo/vtv.png", TEST 4
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/playlist/vtc1/index.m3u8|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="vtv" group-title="VTV" tvg-logo="http://onetv.click/logo/vtv.png", TEST 5
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/channel/vtc1/index.m3u8|Referer=https://sctvonline.vn
-
 #EXTINF:-1 tvg-id="vtc" group-title="VTC" tvg-logo="http://onetv.click/logo/vtc.png", VTC1 - Thời Sự Chính Trị
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/sd2/index.m3u8|Referer=https://sctvonline.vn
@@ -210,7 +190,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtc5/sd2/index.m3u8|Referer=https://sc
 
 #EXTINF:-1 tvg-id="vtc" group-title="VTC" tvg-logo="http://onetv.click/logo/vtc.png", VTC7 - Giải Trí
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/hls/todaytv/index.m3u8|Referer=https://sctvonline.vn
+#https://e2.endpoint.cdn.sctvonline.vn/hls/todaytv/index.m3u8|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="vtc" group-title="VTC" tvg-logo="http://onetv.click/logo/vtc.png", VTC9 - Thông Tin Giải Trí
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -218,27 +198,19 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtc9/sd2/index.m3u8|Referer=https://sc
 
 #EXTINF:-1 tvg-id="vtc" group-title="VTC" tvg-logo="http://onetv.click/logo/vtc.png", VTC10 - Văn Hóa Việt
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtc10/index.m3u8|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="vtv" group-title="VTV" tvg-logo="http://onetv.click/logo/vtv.png", TEST 6
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/playlist/htv2/index.m3u8|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="vtv" group-title="VTV" tvg-logo="http://onetv.click/logo/vtv.png", TEST 7
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/channel/htv2/index.m3u8|Referer=https://sctvonline.vn
+#https://e2.endpoint.cdn.sctvonline.vn/hls/vtc10/index.m3u8|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="htv" group-title="HTV" tvg-logo="http://onetv.click/logo/htv.png", HTV2 - Giải Trí
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=https://sctvonline.vn
+#https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="htv" group-title="HTV" tvg-logo="http://onetv.click/logo/htv.png", HTV3 - Thiếu Niên Nhi Đồng
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8|Referer=https://sctvonline.vn
+#https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="htv" group-title="HTV" tvg-logo="http://onetv.click/logo/htv.png", HTV4 - Kiến Thức Giáo Dục
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8|Referer=https://sctvonline.vn
+#https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="htv" group-title="HTV" tvg-logo="http://onetv.click/logo/htv.png", HTV7 - Giải Trí
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -260,46 +232,50 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/antv/sd2/index.m3u8|Referer=https://sc
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e2.endpoint.cdn.sctvonline.vn/hls/ttxvn/sd2/index.m3u8|Referer=https://sctvonline.vn
 
-#EXTINF:-1 tvg-id="thty" group-title="THTY" tvg-logo="http://onetv.click/logo/htv.png", QPVN - Truyền Hình Quân Đội
+#EXTINF:-1 tvg-id="thty" group-title="THTY" tvg-logo="http://onetv.click/logo/htv.png", QPVN - Quân Đội
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e2.endpoint.cdn.sctvonline.vn/hls/qpvn/sd2/index.m3u8|Referer=https://sctvonline.vn
 
-#EXTINF:-1 tvg-id="thty" group-title="THTY" tvg-logo="http://onetv.click/logo/htv.png", QHVN - Truyền Hình Quốc Hội
+#EXTINF:-1 tvg-id="thty" group-title="THTY" tvg-logo="http://onetv.click/logo/htv.png", QHVN - Quốc Hội
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/hls/qhvn/index.m3u8|Referer=https://sctvonline.vn
+#https://e2.endpoint.cdn.sctvonline.vn/hls/qhvn/index.m3u8|Referer=https://sctvonline.vn
 
-#EXTINF:-1 tvg-id="diaphuong" group-title="THVL" tvg-logo="http://onetv.click/logo/diaphuong.png", THVL1 - Vĩnh Long 1
+#EXTINF:-1 tvg-id="diaphuong" group-title="THVL" tvg-logo="http://onetv.click/logo/diaphuong.png", BTV5 - Thể Thao
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn
 
-#EXTINF:-1 tvg-id="diaphuong" group-title="THVL" tvg-logo="http://onetv.click/logo/diaphuong.png", THVL2 - Vĩnh Long 2
+#EXTINF:-1 tvg-id="diaphuong" group-title="THVL" tvg-logo="http://onetv.click/logo/diaphuong.png", THVL1 - Thời Sự Chính Trị
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/sd2/index.m3u8|Referer=http://sctvonline.vn
+
+#EXTINF:-1 tvg-id="diaphuong" group-title="THVL" tvg-logo="http://onetv.click/logo/diaphuong.png", THVL2 - Văn Hóa Xã Hội
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/sd2/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="nuocngoai" group-title="BOX" tvg-logo="http://onetv.click/logo/nuocngoai.png", BOX Movie 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="nuocngoai" group-title="BOX" tvg-logo="http://onetv.click/logo/nuocngoai.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="nuocngoai" group-title="BOX" tvg-logo="http://onetv.click/logo/nuocngoai.png", Animal Planet
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=http://sctvonline.vn/
+#https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="nuocngoai" group-title="BOX" tvg-logo="http://onetv.click/logo/nuocngoai.png", Planet Earth
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="nuocngoai" group-title="BOX" tvg-logo="http://onetv.click/logo/nuocngoai.png", Discovery Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/sd2/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="nuocngoai" group-title="BOX" tvg-logo="http://onetv.click/logo/nuocngoai.png", Discovery Channel
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8|Referer=http://sctvonline.vn/
+#https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="nuocngoai" group-title="BOX" tvg-logo="http://onetv.click/logo/nuocngoai.png", AXN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=http://sctvonline.vn/
+#https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=http://sctvonline.vn
