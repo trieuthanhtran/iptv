@@ -1,3 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="sctv" group-title="SCTV" tvg-logo="http://onetv.click/logo/sctv.png", SCTV1 - Hài
+#EXTINF:-1 tvg-id="vtvcab" group-title="vtvcab" tvg-logo="http://onetv.click/logo/vtvcab.png", VTVCab 5
+http://27.72.63.63:9981/stream/channelid/559868833?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="vtvcab" group-title="vtvcab" tvg-logo="http://onetv.click/logo/vtvcab.png", VTVCab 7
+http://27.72.63.63:9981/stream/channelid/374512574?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="htvc" group-title="htvc" tvg-logo="http://onetv.click/logo/htvc.png", HTVC Phim
+http://27.72.63.63:9981/stream/channelid/445805308?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="htvc" group-title="htvc" tvg-logo="http://onetv.click/logo/htvc.png", HTVC Thuần Việt
+http://27.72.63.63:9981/stream/channelid/543654355?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="local" group-title="local" tvg-logo="http://onetv.click/logo/local.png", THVL 1
+http://27.72.63.63:9981/stream/channelid/1674129309?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="local" group-title="local" tvg-logo="http://onetv.click/logo/local.png", THVL 2
+http://27.72.63.63:9981/stream/channelid/2133957735?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="sctv" group-title="sctv" tvg-logo="http://onetv.click/logo/sctv.png", SCTV 6
+http://27.72.63.63:9981/stream/channelid/528601284?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", BOX Movie 1
+http://27.72.63.63:9981/stream/channelid/1127023650?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Hollywood Classics
+http://27.72.63.63:9981/stream/channelid/1444285831?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Rock Entertainment
+http://27.72.63.63:9981/stream/channelid/1209970066?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", National Geographic
+http://27.72.63.63:9981/stream/channelid/2059257934?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Planet Earth
+http://27.72.63.63:9981/stream/channelid/441530708?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Outdoor Channel
+http://27.72.63.63:9981/stream/channelid/23829489?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", HISTORY
+http://27.72.63.63:9981/stream/channelid/1868162249?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
