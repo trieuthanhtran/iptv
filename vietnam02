@@ -1,56 +1,84 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 1v1
+http://27.72.63.63:9981/stream/channelid/1922085990?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 1v2
+http://27.72.63.63:9981/stream/channelid/154889753?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 1v3
+http://27.72.63.63:9981/stream/channelid/1905066750?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 1v4
+http://pcriptv.duckdns.org:9981/stream/channelid/1796478406?
 
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 1VTV 2
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 2v1
 http://27.72.63.63:9981/stream/channelid/1726874393?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
-
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 2VTV 2
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 2v2
 http://172.104.57.43:8811/stream/channelid/1779682701?profile=pass
-
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 3VTV 2
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 2v3
 http://103.75.187.237:9981/stream/channelid/171222244?
-
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 4VTV 2
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 2v4
 http://pcriptv.duckdns.org:9981/stream/channelid/1783189452?
-
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 5VTV 2
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 2v5
 https://vtvgo.dl.dropboxusercontent.com/s/6i657ws2qmf1xu9/./   																						 ㅤ
 
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 1VTV 3
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 3v1
+http://27.72.63.63:9981/stream/channelid/506541025?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 3v2
+http://27.72.63.63:9981/stream/channelid/1006930808?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 3v3
 http://172.104.57.43:8811/stream/channelid/192899465?profile=pass
-
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 2VTV 3
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 3v4
 http://103.75.187.237:9981/stream/channelid/266720209?
-
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 3VTV 3
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 3v5
 http://pcriptv.duckdns.org:9981/stream/channelid/1997799915?
-
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 4VTV 3
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 3v6
 https://vtvgo.dl.dropboxusercontent.com/s/f9i1mckms2kf78c/./   																						 ㅤ
 
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 1VTV 6
-http://27.72.63.63:9981/stream/channelid/1082408882?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 3v1
+http://103.75.187.237:9981/stream/channelid/266720209?
 
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 2VTV 6
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 4
+http://27.72.63.63:9981/stream/channelid/1923680364?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 5v1
+http://27.72.63.63:9981/stream/channelid/1138008153?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 5v2
+http://172.104.57.43:8811/stream/channelid/105724547?profile=pass
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 5v3
+http://103.75.187.237:9981/stream/channelid/515067987?
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 5v4
+http://pcriptv.duckdns.org:9981/stream/channelid/2037364001?
+
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 6v1
+http://27.72.63.63:9981/stream/channelid/2592907?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 6v2
+http://27.72.63.63:9981/stream/channelid/1082408882?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 6v3
+https://vtvgo.dl.dropboxusercontent.com/s/rbmb8m4978qgnvf/./   																						 ㅤ
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 6v4
+http://103.75.187.237:9981/stream/channelid/264239339?
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 6v5
+http://pcriptv.duckdns.org:9981/stream/channelid/1121221167?
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 6v6
+https://hqth.me/Phimk2
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 6v7
 https://hqth.me/Sukien01
 
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 3VTV 6
-https://hqth.me/Phimk2
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 7v1
+http://27.72.63.63:9981/stream/channelid/1773135257?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 7v2
+http://27.72.63.63:9981/stream/channelid/157039997?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
 
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 4VTV 6
-http://103.75.187.237:9981/stream/channelid/264239339?
-
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 5VTV 6
-http://pcriptv.duckdns.org:9981/stream/channelid/1121221167?
-
-#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", 5VTV 6
-https://vtvgo.dl.dropboxusercontent.com/s/rbmb8m4978qgnvf/./   																						 ㅤ
+#EXTINF:-1 tvg-id="vtv" group-title="vtv" tvg-logo="http://onetv.click/logo/vtvcab.png", VTV 8
+http://27.72.63.63:9981/stream/channelid/1910707277?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab" group-title="vtvcab" tvg-logo="http://onetv.click/logo/vtvcab.png", VTVCab 5
 http://27.72.63.63:9981/stream/channelid/559868833?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab" group-title="vtvcab" tvg-logo="http://onetv.click/logo/vtvcab.png", VTVCab 7
 http://27.72.63.63:9981/stream/channelid/374512574?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+
+#EXTINF:-1 tvg-id="vtvcab" group-title="vtvcab" tvg-logo="http://onetv.click/logo/vtvcab.png", VTVCab 15
+http://27.72.63.63:9981/stream/channelid/22966544?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
 
 #EXTINF:-1 tvg-id="htvc" group-title="htvc" tvg-logo="http://onetv.click/logo/htvc.png", HTVC Phim
 http://27.72.63.63:9981/stream/channelid/445805308?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
@@ -67,14 +95,24 @@ http://27.72.63.63:9981/stream/channelid/2133957735?auth=P3Kx1L.shOgoAAeNHf4KSje
 #EXTINF:-1 tvg-id="sctv" group-title="sctv" tvg-logo="http://onetv.click/logo/sctv.png", SCTV 6
 http://27.72.63.63:9981/stream/channelid/528601284?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
 
-#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", BOX Movie 1
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", BOX Movie 1v1
+http://27.72.63.63:9981/stream/channelid/1929520270?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", BOX Movie 1v2
 http://27.72.63.63:9981/stream/channelid/1127023650?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
 
-#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Hollywood Classics
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Hollywood Classics v1
+http://27.72.63.63:9981/stream/channelid/946218196?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Hollywood Classics v2
 http://27.72.63.63:9981/stream/channelid/1444285831?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
 
-#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Rock Entertainment
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Rock Entertainment v1
 http://27.72.63.63:9981/stream/channelid/1209970066?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Rock Entertainment v2
+http://27.72.63.63:9981/stream/channelid/437073812?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Rock Entertainment v3
+http://27.72.63.63:9981/stream/channelid/1289665331?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Rock Entertainment v4
+http://27.72.63.63:9981/stream/channelid/1832755383?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
 
 #EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", National Geographic
 http://27.72.63.63:9981/stream/channelid/2059257934?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
@@ -85,5 +123,7 @@ http://27.72.63.63:9981/stream/channelid/441530708?auth=P3Kx1L.shOgoAAeNHf4KSjeN
 #EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", Outdoor Channel
 http://27.72.63.63:9981/stream/channelid/23829489?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
 
-#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", HISTORY
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", HISTORY v1
+http://27.72.63.63:9981/stream/channelid/318223007?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
+#EXTINF:-1 tvg-id="nuocngoai" group-title="nuocngoai" tvg-logo="http://onetv.click/logo/nuocngoai.png", HISTORY v2
 http://27.72.63.63:9981/stream/channelid/1868162249?auth=P3Kx1L.shOgoAAeNHf4KSjeNB6tQ&profile=pass
