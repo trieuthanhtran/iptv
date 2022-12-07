@@ -1,0 +1,677 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/qdq9pWn/cccalendar.gif",LỊCH THI ĐẤU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vtven.dl.dropboxusercontent.com/s/k2ilf0p0rfef3pz/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp"  catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/pk0ijhdit0q280c/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/G0PXW8r/VTV2-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/c7lplr1ke566zsr/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/VNHdbry/VTV3-cc.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/ylb7my8but2ccwd/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv4hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/VCBW4W8/VTV4-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/56q22mgpiprmned/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/Hnyb8Cr/VTV5-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/gkj7e5a73twhzsd/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/Fxzdz7v/ccvtv5TN.webp",VTV5.TN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/y9yl0ub4auytl70/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/Qrt7Qmp/ccvtv5-TNB.webp",VTV5.TNB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/e72ncx52hal0pqa/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/PtJKgHX/vtvcantho.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV.CT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/0mdi9d3mk1movxm/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv7hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/Z89vrHX/VTV7-cc.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/e3r3lh5xsfefrmd/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv8hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/RyBxx0F/VTV8-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/1of9wrw271upco9/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/HVRdGVT/VTV9-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/wjvtjyo01o5ag3r/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/KWnBFFQ/ccvtv2.webp",VTV2 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vtven.dl.dropboxusercontent.com/s/ztr7jd8my2uecnf/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/z7Zzqm6/ccvtv3.webp",VTV3 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vtven.dl.dropboxusercontent.com/s/s3z96uruc7ltcpv/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/3WHdWZL/ccvtv5.webp",VTV5 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vtven.dl.dropboxusercontent.com/s/mh0a21kbxt6d7d2/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="cantho" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/hFkS1bZ/ccvtvCT.webp",VTV.CT ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vtven.dl.dropboxusercontent.com/s/8itlync6lt39y2e/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/KWnBFFQ/ccvtv2.webp",VTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vtvgo.dl.dropboxusercontent.com/s/6i657ws2qmf1xu9/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/z7Zzqm6/ccvtv3.webp",VTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vtvgo.dl.dropboxusercontent.com/s/f9i1mckms2kf78c/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/3WHdWZL/ccvtv5.webp",VTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vtvgo.dl.dropboxusercontent.com/s/l1l16133sdsm3qx/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="cantho" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/hFkS1bZ/ccvtvCT.webp",VTV.CT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vtvgo.dl.dropboxusercontent.com/s/rbmb8m4978qgnvf/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/SNhd2YR/ccvtv5tnb.webp",VTV5.TNB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vtvgo.dl.dropboxusercontent.com/s/iduixogrcosqdv0/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc1hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/2S7N7Ns/VTC1-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTC1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/iszhntq0cwonhl4/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc2" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/Jmpt24j/VTC2-cc.webp",VTC2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/7j2fpfd19kf3iyx/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc3hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/yXPCVtL/VTC3-cc.webp",VTC3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/dfh90lgfb0bubi4/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc4hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/gPfD9pT/VTC4-cc.webp",VTC4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/f4t3000il36zl43/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc5hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/cTCLpNY/VTC5-cc.webp",VTC5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/evg2xh278imm1jx/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc6hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/K0nwDwr/VTC6-cc.webp",VTC6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/m8y2kn9zbdcalmq/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc7hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/Qb9Rr4f/VTC7-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtc7_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTC7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/wpxul103peob2ss/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc8" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/GvVFLfQ/VTC8-cc.webp",VTC8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/cz5t486k2zrxfsb/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc9hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/XzMRc4L/VTC9-cc.webp",VTC9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/8jdqwvnht27foqr/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc10hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/YtrZqN7/VTC10-cc.webp",VTC10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/y4ue4rdsvnq1uw3/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc11" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/9qRQm9V/VTC11-cc.webp",VTC11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/qoqjc7px5oriult/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc12hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/92Yxc1W/VTC12-cc.webp",VTC12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/zjtcmbdy8rmkhnk/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc13hd"  group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/Q9X6Cgt/VTC13-cc.webp",VTC13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/ff2uaiv2kvib64v/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc14hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/t2zbLSN/VTC14-cc.webp",VTC14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/o0fffew1g8ac9br/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtc16" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/JjwDsP0/VTC16-cc.webp",VTC16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/kq8nkhvgjfpecgo/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtcnow" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/d5bF9Sf/ccvtcnow.webp",VTC Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x8ariwq
+
+#EXTINF:0 tvg-id="htv1" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/XkLGs0C/HTV1-cc.webp",HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://drm-livecdn.hplus.com.vn/htvonline/htv1.720p.nimble.tms/playlist.m3u8?cc
+
+#EXTINF:0 tvg-id="htv2hd" group-title="3️⃣| HTV"tvg-logo="https://i.ibb.co/q99PxTH/cchtv2.webp",HTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8?cc
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="htv3" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/s6gVdnY/cchtv3.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://drm-livecdn.hplus.com.vn/htvonline/htv3.720p.nimble.tms/playlist.m3u8?cc
+
+#EXTINF:0 tvg-id="htvkey" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/McQ45Y9/HTV4.webp",HTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://drm-livecdn.hplus.com.vn/htvonline/htv4.480p.nimble.tms/playlist.m3u8?cc
+
+#EXTINF:0 tvg-id="htv7hd" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/C9r5gwM/HTV7-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range--${start}-${offset}.m3u8?cc",HTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV7-HD-ABR/HTV-ABR/HTV7-HD-1080p/chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="htv9hd" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/tqvWY3q/HTV9-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV9-HD-ABR/HTV-ABR/HTV9-HD-1080p/chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="htvthethaohd" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/GTnjzYB/HTVThe-Thao.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV Thể Thao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/nmj2GzH/HTVCThuan-Viet-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p /chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="htvcthuanviethd" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/7QFQNcN/Thuan-Viet-HD-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTVC Thuần Việt HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="htvcphimhd" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/n3QhGdm/HTVCPhim-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTVC Phim
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/d0g19Tx/HTVCGia-Dinh-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTVC Gia Đình
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/8zrqfgP/HTVCPhu-Nu-cc.webp",HTVC Phụ Nữ
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="htvcplushd" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/7QjqVJP/HTVCPlus-cc.webp",HTVC Plus
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8?cc
+
+#EXTINF:0 tvg-id="htvccanhachd" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/vsq97Rf/HTVCCa-Nhac-cc.webp",HTVC Ca Nhạc
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/2kG47vd/HTVCDu-Lich-cc.webp",HTVC Du Lịch & Cuộc Sống
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="htvc_vgs_shop" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/941GkKt/HTVCShop-cc.webp",HTVC VGS Shop
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="htvc_coop" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/P5RQfZg/HTVCoop-cc.webp",HTV Co.op
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8?cc
+
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="4️⃣| Quê Hương" tvg-logo="https://i.ibb.co/74ydSzT/ccVL4.webp",💚| Vĩnh Long 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/khm7zb7fmtgjkyl/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="hitv"  group-title="4️⃣| Quê Hương" tvg-logo="https://i.ibb.co/xJmwGmk/Hanoicab1.webp",Hanoi cab1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/n46kvcvw6y27f3n/																						 ㅤ
+
+#EXTINF:0 tvg-id="antg"  group-title="4️⃣| Quê Hương" tvg-logo="https://i.ibb.co/7tK3cdM/ccANTG.webp",Hanoi cab3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/re6z25a7hbhjpmt/																						 ㅤ
+																					 																		 ㅤ
+#EXTINF:-1 tvg-id="vtv2hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/pJx7YCs/ccTV360.webp",VTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tv360.dl.dropboxusercontent.com/s/qpqr65meohi3xgv/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/pJx7YCs/ccTV360.webp",VTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tv360.dl.dropboxusercontent.com/s/tdrw8lrvs4qpvlh/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/pJx7YCs/ccTV360.webp",VTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tv360.dl.dropboxusercontent.com/s/vcl15sfhz3cfrpx/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="cantho" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/pJx7YCs/ccTV360.webp",VTV.CT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tv360.dl.dropboxusercontent.com/s/bme85lok45x644y/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/mBXrpX1/ccMyTV.webp",VTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://mytv.dl.dropboxusercontent.com/s/njb0lmb24305r1o/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/mBXrpX1/ccMyTV.webp",VTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://mytv.dl.dropboxusercontent.com/s/lw866y6363ww4ki/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/mBXrpX1/ccMyTV.webp",VTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://mytv.dl.dropboxusercontent.com/s/s1ilkxcxtl8v5tk/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="cantho" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/mBXrpX1/ccMyTV.webp",VTV.CT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://mytv.dl.dropboxusercontent.com/s/uolqk7fpd78jdih/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtvcab1hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/fQFFZTS/vtvcab1.webp",VTVcab1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/bg5sfxm4lfkslus/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab2hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/JnhVYWw/VCab2-cc.webp",VTVcab2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/0nqo8dn34kcwogy/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab3hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/MMTgFmm/cccab3.png",VTVcab3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/kojr0j2m1cavttd/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab4hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/DCK2NBW/ccvcab4.webp",VTVcab4
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/3qnvvkpqih8cixy/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab5hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/x6FrQSw/VCab5-cc.webp",VTVcab5
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/i2i43tefvoe8c9z/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab6hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/37hkhwk/VCab6-cc.webp",VTVcab6
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/irend8c25k58zo0/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab7hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/n72n8xm/ccvcab7.webp",VTVcab7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/lia47kh5htviiuz/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab8hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/pjtMHJW/cccvcab8.webp",VTVcab8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/9mz5wawbsi3p93v/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab9hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/17c1dp7/cccab9.webp",VTVcab9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/5bxzp6jbho18okt/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab10hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/4J66cdQ/VCab10-cc.webp",VTVcab10
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/hvy61us072d986l/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab11hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/2qjYGHH/VCab11-cc.webp",VTVcab11
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vtsstr7.tv24.vn/live/VTVcab11.smil/chunklist.m3u8?cc
+
+#EXTINF:0 tvg-id="vtvcab12hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/M9L1k4D/cccab12.webp",VTVcab12
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/elwvdzocmpcf33l/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab15hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/7Kh7txq/ccvcab15.webp",VTVcab15
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/wyqf8oggm6b4say/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab16hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/jWGtxGc/cccab16.png",VTVcab16
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/85zujub9y2y0aho/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab17hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/M85FLWM/VCab17-cc.webp",VTVcab17
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/ktkrtdqzxaykmjl/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab18hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/tJjtDnZ/ccvcab18.png",VTVcab18
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/xo3s1fhgdzdxrpb/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab19hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/n3Z3Qc2/vtvcab19.webp",VTVcab19
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/jnefztkjj2j8dgn/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab20hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/pXfDjBy/cccab20.webp",VTVcab20
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/poax65jbwcuzojy/																						 ㅤ 
+
+#EXTINF:0 tvg-id="vtvcab21hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/712tpSm/ccvcab21.webp",VTVcab21
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/y3gdrnjftbm2sxi/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtvcab22hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/McgFF0t/ccvcab22.webp",VTVcab22
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/y3erjlan8z8lub0/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="vtvcab23hd" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/r7tFs8D/cccab23.png",VTVcab23
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://v.dl.dropboxusercontent.com/s/xnqgxbnzjv4xedq/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/gVz08b4/cc-Golf-News.webp",Golf News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8?cc
+
+#EXTINF:0 tvg-id="" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/9cgCxM6/bongdaviet.png",Bóng Đá Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://v.dl.dropboxusercontent.com/s/e5iz2p09z41w2a2/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/ygPLR6S/thethaoviet.png",Thể Thao Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/a7qr4pmdxoujkw6/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/F3xfrHC/cc-On-Sports-Eng.webp",ON Sports ᵉⁿᵍ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://v.dl.dropboxusercontent.com/s/nythq0a5ob6hmd8/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/mC5Vtk1/cc-On-Sports-Eng.webp",ON Sports News ᵉⁿᵍ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://v.dl.dropboxusercontent.com/s/ko6n76ypbdc0mk8/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/Q9sTrDZ/cc-On-Football-Eng.webp",ON Football ᵉⁿᵍ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://v.dl.dropboxusercontent.com/s/jbdu65fwrgcikjm/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="" type="stream" group-title="🇻| VCAB" tvg-logo="https://i.ibb.co/PYbZ8bs/ongolf-eng.webp",ON Golf ᵉⁿᵍ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://v.dl.dropboxusercontent.com/s/zc5jnpho1uae7w1/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/JQFqcVj/ccon.webp",VTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://on.dl.dropboxusercontent.com/s/tcccrehsl5pingb/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/JQFqcVj/ccon.webp",VTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://on.dl.dropboxusercontent.com/s/nvwekyue4su342t/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/JQFqcVj/ccon.webp",VTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://on.dl.dropboxusercontent.com/s/feupmpxap03nmqu/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="cantho" group-title="W⚽RLD CUP 2022" tvg-logo="https://i.ibb.co/JQFqcVj/ccon.webp",VTV.CT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://on.dl.dropboxusercontent.com/s/wmz5vfyp4ptcp7v/./   																						 ㅤ
+
+#EXTINF:-1 tvg-id="sctv1hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/6FB7zBz/SCTV1-cc.webp",SCTV1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/f9r1x32j380hocn/./   																						 ㅤ|Referer=https://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv2hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/cJmDkTP/SCTV2-cc.webp",SCTV2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/0p1t9p2inm3awmo/./   																						 ㅤ|Referer=https://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv3hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/7QPYf6D/SCTV3-cc.webp",SCTV3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/j1lu660bvcxrjv0/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv4hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/FwV83nc/SCTV4-cc.webp",SCTV4
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/own26ho8evs7iut/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv5hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/mbDHVPr/SCTV5-cc.webp",SCTV5
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/h7hgks4jm8q4bxt/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv6hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/g4rNcCM/SCTV6-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",SCTV6
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/ges28l7df2b1ndc/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv7hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/VJJ953X/SCTV7-cc.webp",SCTV7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/tayodhae1s15xlh/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv8hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/VxHFKfh/SCTV8-cc.webp",SCTV8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/fw9imvn31ossqor/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv9hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/x6dMJWH/SCTV9-cc.webp",SCTV9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://s.dl.dropboxusercontent.com/s/zmsldkw4tbesq5f/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv10hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/9tKmzD5/SCTV10-cc.webp",SCTV10
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/khf555gqekjwa14/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv11hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/0YC4B8t/SCTV11-cc.webp",SCTV11
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/28wawpgersgztvg/																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv12hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/JR8LKdR/SCTV12-cc.webp",SCTV12
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/ay7ugxqgrd0bx7f/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv13hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/bz9xjYz/SCTV13-cc.webp",SCTV13
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/4abd2sdo46uxbp0/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv14hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/ThjNn6H/SCTV14-cc.webp",SCTV14
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/lzapu925atvcdan/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv15hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/q1GPVFM/SCTV15-SSport-cc.webp",SCTV15
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/wdzqgg3o6l0zsob/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv16hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/934CHgk/SCTV16-cc.webp",SCTV16
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/2miptngca7an4hi/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv17hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/DK7fS8T/SCTV17-cc.webp",SCTV17
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/3i3h6v929s3k7vr/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv18hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/fGHtx1M/SCTV18-cc.webp",SCTV18
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/czs0uifpctuj82b/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv19hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/31xjyg6/SCTV19-cc.webp",SCTV19
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/m1g7zsoi57bf7tu/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv20hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/mXBX0sN/SCTV20-cc.webp",SCTV20
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/axuuraf6ul8wtra/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="ssctv21hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/q7XSnwX/SCTV21-cc.webp",SCTV21
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/yiu76mm5ezdpikv/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctv22hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/zxDw1L7/SCTV22-cc.webp",SCTV22
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/3o9sa78k791lmme/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="sctvhdpth" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/23fg0qV/SCTVPhim-cc.webp",SCTV.PTH
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/75czuplkd6nrrxc/./   																						 ㅤ 
+
+#EXTINF:-1 tvg-id="btv5hd" type="stream" group-title="🇸| SCTV" tvg-logo="https://i.ibb.co/D8dGTg9/cc-btv5.webp",BTV5
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s.dl.dropboxusercontent.com/s/e047z90wewt796q/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="inthebox" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",BOX Channel
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://b.dl.dropboxusercontent.com/s/2ph6r5ilqesx74y/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="boxhits" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp",BOX Hits
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://b.dl.dropboxusercontent.com/s/s53baiewsrrwl4s/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="boxmovie1" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie¹
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://b.dl.dropboxusercontent.com/s/rnspjxn4hj0fn6m/./   																						 
+
+#EXTINF:0  tvg-id="musicbox" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",BOX Music
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://b.dl.dropboxusercontent.com/s/pk0dnhzce07otxk/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="hollywoodclassics" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",HLW Classics
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://b.dl.dropboxusercontent.com/s/kmdbbdiotbzivlf/./   																						 ㅤ 
+
+#EXTINF:0 tvg-id="happykids" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://b.dl.dropboxusercontent.com/s/5viagpvq9t5dyyy/./   																						 ㅤ 
+
+#EXTINF:0  tvg-id="drfithd" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/t8SWCHJ/DrFit-cc.webp",Dr. Fit
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://b.dl.dropboxusercontent.com/s/ans2dqvexlyabu4/./   																						 ㅤ 
+
+#EXTINF:0  tvg-id="planetearthhd" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet Earth
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://b.dl.dropboxusercontent.com/s/i5e3nlig7lz3y6r/./   																						 ㅤ 
+
+#EXTINF:0  tvg-id="woman" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png",Woman
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://b.dl.dropboxusercontent.com/s/tbphepboygddvv8/./   																						 ㅤ 
+
+#EXTINF:0  tvg-id="man" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/Yj6BTzZ/Man-cc.webp",Man
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://b.dl.dropboxusercontent.com/s/hozh2hp8cgrpfcr/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="hbohd" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/3Bt20YR/HBO-cc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://q.dl.dropboxusercontent.com/s/1j7cc56k9pkofrs/./   																						 ㅤ
+
+#EXTINF:0 tvg-id="cinemaxhd" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/C6npfxN/cc-Cinemax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://q.dl.dropboxusercontent.com/s/dnchwwbyxkinh3d/./   																						 ㅤ
+
+#EXTINF:0  tvg-id="ngwhd" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/3sw847D/ccwild.webp",WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8?cc
+
+
+#EXTINF:0 tvg-id="cna" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/NTKgPfv/cna.png",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?cc
+
+#EXTINF:0 tvg-id="dmax" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/JHcx9jM/ccdmax.png",Dmax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://q.dl.dropboxusercontent.com/s/rh08drzjw4af8dx/./   																						 ㅤ
+#https://cocc.me/🌀.maxㅤ         															
+#KODIPROP:inputstream.adaptive.license_key=https://q.dl.dropboxusercontent.com/s/yw940t88a4r2xjv/   																						 ㅤ
+
+#EXTINF:-1 tvg-id="historyhd" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/d2dJNWn/cchistory.webp",History
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0.0 (Windows NT 10.0; Win64; 64) AppleWebKit/537.36/Gecko Chrome/81.0.4044.138 Safari/537.36
+https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd?exp=1668275409~acl=/*~hmac=0a15e7a863da3770f1d58f134494acf6d060017afd2335
+#https://cocc.me/⌛.hisㅤ          															
+
+#EXTINF:0  tvg-id="hits" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/rbWjRFs/Hits-cc.png",Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://q.dl.dropboxusercontent.com/s/53qvp8mzlx741c0/./   																						 ㅤ
+
+#EXTINF:0  tvg-id="hgtvhd" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/kB91Qgx/HGTV.png",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://q.dl.dropboxusercontent.com/s/of7s1siemcyb2lw/./   																						 ㅤ
+
+#EXTINF:0  tvg-id="paramouthd" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/n0FqTt8/Paramount-cc.png",Paramount
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://q.dl.dropboxusercontent.com/s/iny64b01txfdagj/./   																						 ㅤ
+
+#EXTINF:0 group-title="🇧🌎🇽", tvg-logo="https://i.ibb.co/f9thdzn/oan.webp",OAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8?cc
+
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/Xs82Wcm/Smithsonian.png",Smithsonian Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8?cc
+
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/vsfZxbw/nasa.png",Nasa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?cc
+
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://xplore-tv.de/wp-content/uploads/2019/05/cropped-logo.png",Xplore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://xplore-plex.amagi.tv/playlist1080-p.m3u8?cc
+
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/7CH2JD5/ccwildlife.png",Wild Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8?cc
+
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/zVLjLkQ/love-nature.png",Love Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?cc
+
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/QrbrpZj/Love-Nature4-K-cc.png",Love Nature ⁴ᵏ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?cc
+
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/CWYnvBt/Bloomberg4-K-cc.png",Bloomberg ⁴ᵏ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8?cc
+#https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8?cc
+
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/hCsqbBT/FTV4K-cc.png",FashionTV ⁴ᵏ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8?cc
+
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/hHFBv1G/Clarity-cc.png",Clarity ⁴ᵏ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8?cc
+
+#EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/y49ghHm/Loupe-cc.png",Loupe ⁴ᵏ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8?cc
+
+#EXTINF:0 group-title="📽︎| MOV" tvg-logo="https://i.ibb.co/ZMfWqqm/ccbluestar.gif",Hollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?cc
+
+#EXTINF:0 group-title="📽︎| MOV" tvg-logo="https://i.ibb.co/1rzwDCx/Star-Movies.png",STAR Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://s.id/starmovie?uri=http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?cc
+
+#EXTINF:0 group-title="📽︎| MOV" tvg-logo="https://i.ibb.co/prb6Bzk/Star-World.png",STAR World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://s.id/starworld?uri=http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8?cc
+
+#EXTINF:0 group-title="📽︎| MOV" tvg-logo="https://i.ibb.co/KK0Yf4G/wowtv.png",WOW TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist.m3u8?cc
+
+#EXTINF:-1 group-title="📽︎| MOV" tvg-logo="https://i.ibb.co/SX5T9B9/Cine-Life-cc.webp",CineLife 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8?cc
