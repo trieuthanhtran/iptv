@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1, SCTV1 - Hài
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s2/index.m3u8|Referer=https://sctvonline.vn
+#EXTINF:-1, SCTV6 - Phim
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/s2/index.m3u8|Referer=https://sctvonline.vn
+#EXTINF:-1, SCTV9 - Phim
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s2/index.m3u8|Referer=https://sctvonline.vn
+#EXTINF:-1, SCTV14 - Phim
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s2/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1, SCTV16 - Phim
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s2/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1, SCTV - Phim
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s2/index.m3u8|Referer=https://sctvonline.vn
+#EXTINF:-1, VTVCab2 - Phim
+https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab2/sd2/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1, VTVCab4 - Phim
+https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1, VTVCab19 - Phim
+https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab19/sd2/index.m3u8|Referer=http://sctvonline.vn
+
+#EXTINF:-1, SCTV2 - Giải Trí
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s2/index.m3u8|Referer=https://sctvonline.vn
+#EXTINF:-1, SCTV11 - Giải Trí
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/s2/index.m3u8|Referer=https://sctvonline.vn
+#EXTINF:-1, VTVCab1 - Giải Trí
+https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab1/sd2/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1, VTC5 - Giải Trí
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtc5/sd2/index.m3u8|Referer=https://sctvonline.vn
+#EXTINF:-1, VTC7 - Giải Trí
+https://e2.endpoint.cdn.sctvonline.vn/hls/todaytv/sd2/index.m3u8|Referer=https://sctvonline.vn
+#EXTINF:-1, HTV2 - Giải Trí
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/sd2/index.m3u8|Referer=https://sctvonline.vn
+
+#EXTINF:-1, SCTV20 - Âm Nhạc
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s2/index.m3u8|Referer=https://sctvonline.vn
+
+#EXTINF:-1, VTVCab17 v1
+https://e3.endpoint.cdn.sctvonline.vn/channel/vtvcab17/sd2/index.m3u8|Referer=http://sctvonline.vn
+
+#EXTINF:-1, SCTV12 - Khám Phá
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s2/index.m3u8|Referer=https://sctvonline.vn
+#EXTINF:-1, SCTV21 - Lịch Sử
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s2/index.m3u8|Referer=https://sctvonline.vn
+
+#EXTINF:-1, Animal Planet
+https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/sd2/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1, Discovery Asia
+https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/sd2/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1, Discovery Channel
+https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/sd2/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1, AXN
+https://e4.endpoint.cdn.sctvonline.vn/hls/axn/sd2/index.m3u8|Referer=http://sctvonline.vn
