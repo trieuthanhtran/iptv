@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, World Cup 1
-https://hqth.me/Phimk2
-#EXTINF:-1, World Cup 2
-https://hqth.me/Sukien01
-
 #EXTINF:-1, VTV1 HD
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/vtv1@high.m3u8
 #EXTINF:-1, VTV2 HD
@@ -29,7 +24,7 @@ https://nvzoftzsvflivcf.vcdn.com.vn/vtv8/vtv8@high.m3u8
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv9/vtv9@high.m3u8
 
 #EXTINF:-1, SCTV1 - Hài
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=https://sctvonline.vn
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
 #EXTINF:-1, SCTV6 - Phim
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv6/index.m3u8|Referer=https://sctvonline.vn
 #EXTINF:-1, SCTV9 - Phim
