@@ -36,20 +36,10 @@ https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 
 #EXTINF:-1, Box Movie 1
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, animalplanet
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, hollywood
+#EXTINF:-1, Hollywood Classics
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discoveryasia
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, bbc
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/bbc/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, boxmusic
+#EXTINF:-1, Music Box
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, planetearth
+#EXTINF:-1, Planet Earth
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, axn
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discovery/index.m3u8|Referer=https://sctvonline.vn
 
