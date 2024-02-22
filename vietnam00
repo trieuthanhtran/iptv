@@ -105,10 +105,6 @@ https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1, Planet Earth
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=https://sctvonline.vn
 #EXTINF:-1, IMPACT Wrestling
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8
+https://s5host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config7/hls/main.m3u8
 #EXTINF:-1, Love Nature
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8
-#EXTINF:-1, PBS Nature
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63506e7747b2355a27e76e7f.m3u8
-#EXTINF:-1, WildEarth
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8
+https://s5host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config6/playlist.m3u8?
