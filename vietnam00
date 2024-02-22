@@ -1,67 +1,4 @@
 #EXTM3U
-#EXTINF:-1, discovery1
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery2
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery3
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery4
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery5
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e5.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery6
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e6.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery7
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery8
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery9
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e9.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery10
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e10.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery11
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e11.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery12
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e12.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery13
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e13.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery14
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e14.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery15
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e15.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn
-
-
-#EXTINF:-1, discovery1
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery2
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery3
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery4
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery5
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e5.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery6
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e6.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery7
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery8
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery9
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e9.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery10
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e10.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery11
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e11.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery12
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e12.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery13
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e13.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery14
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e14.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-#EXTINF:-1, discovery15
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e15.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=https://sctvonline.vn
-
 
 #EXTINF:-1, VTV1
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/vtv1/index.m3u8|Referer=https://sctvonline.vn
@@ -167,3 +104,11 @@ https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=https://sctvonline.vn
 #EXTINF:-1, Planet Earth
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=https://sctvonline.vn
+#EXTINF:-1, IMPACT Wrestling
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873/variant.m3u8
+#EXTINF:-1, Love Nature
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb/variant.m3u8
+#EXTINF:-1, PBS Nature
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63506e7747b2355a27e76e7f/variant.m3u8
+#EXTINF:-1, WildEarth
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135/variant.m3u8
